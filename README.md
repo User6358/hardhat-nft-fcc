@@ -1,4 +1,4 @@
-This project aims at laerning how to code 3 NFT contracts
+This project aims at learning how to code 3 NFT contracts
 
 1. Basic NFT
 
